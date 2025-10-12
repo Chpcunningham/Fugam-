@@ -1,4 +1,4 @@
-Puzzle game with horror elements. Made with Unity.
+<h1>Puzzle game with horror elements. Made with Unity.</h1>
 
   
   <img src="menu.png" alt="Menu screen">
